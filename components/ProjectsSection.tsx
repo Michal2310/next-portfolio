@@ -46,13 +46,15 @@ const ProjectsSection = () => {
           </p>
           <div className="flex flex-col w-full md:w-auto md:flex-row">
             <Link
-              href=""
+              target="_blank"
+              href="https://github.com/Michal2310/next-portfolio"
               className="text-xl bg-[#FF5C00] px-6 py-2 text-center text-white rounded-md mr-5 hover:scale-105 transform transition-all duration-300 w-full my-2 sm:w-auto"
             >
               Github Repo
             </Link>
             <Link
-              href=""
+              target="_blank"
+              href="https://portfolio-michal2310.vercel.app/"
               className="text-xl bg-[#FF5C00] px-6 py-2 text-center text-white rounded-md mr-5 hover:scale-105 transform transition-all duration-300 w-full my-2 sm:w-auto"
             >
               Live preview
